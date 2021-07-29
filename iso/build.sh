@@ -1,2 +1,2 @@
 #!/bin/sh
-sudo mkarchiso -v -w ./work -o ./out releng
+sudo mkarchiso -v -w ../work -o ../out releng
